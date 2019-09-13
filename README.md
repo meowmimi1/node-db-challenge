@@ -52,7 +52,7 @@ Foreign key
 
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
 
-A third table that links the two of them.
+A third table that links the two of them
 
 
 ## Minimum Viable Product
